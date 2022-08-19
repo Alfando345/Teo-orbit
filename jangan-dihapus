@@ -1,0 +1,6 @@
+echo "Selamat menggunakan bot ini"
+apt update && apt upgrade 
+apt install ffmpeg
+apt nodejs
+apt install yarn
+node .

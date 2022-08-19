@@ -50,8 +50,8 @@ global.limitawal = {
 }
 global.qris = 'telegra.ph/file/651ab2766e5e695730290.jpg'
 global.watermark = 'sync not defineedddd'
-global.shizuka = fs.readFileSync('./animeimage/haiyeuoeduhwaj.jpg')
-global.thumb = fs.readFileSync('./animeimage/kotnol.jpg')
+global.shizuka = fs.readFileSync('./animeimage/Images (7).jpeg')
+global.thumb = fs.readFileSync('./animeimage/Images (4).jpeg')
 global.visoka = fs.readFileSync('./video/shiroko.mp4')
 
 let file = require.resolve(__filename)
